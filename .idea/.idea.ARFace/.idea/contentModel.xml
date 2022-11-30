@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chukw\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\chukw\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ARFace.-370322736.00" t="ExcludeRecursive" />
+    <e p="C:\Users\chukw\Documents\ExtendedReality\Projects\ARFace" t="IncludeRecursive">
+      <e p="ARFace.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="OpenScript.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
